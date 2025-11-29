@@ -1,0 +1,17 @@
+nutrient,unit
+calcium,MG
+calories,KCAL
+carbohydrate,G
+cholesterol,MG
+fat,G
+fiber,G
+iron,MG
+potassium,MG
+protein,G
+saturated_fat,G
+sodium,MG
+sugar,G
+trans_fat,G
+vitamin_a,IU
+vitamin_c,MG
+vitamin_d,IU
