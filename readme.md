@@ -16,3 +16,7 @@ This project develops an intelligent nutrition recommendation system that levera
 - Abishek Manoj
 - Chirag Nayak
 - Aaqeb Ahmed
+
+## Links
+https://drive.google.com/file/d/167OEJymTs-xYSPKotxlB02RwI1Z7INNu/view?usp=sharing
+https://drive.google.com/file/d/1KduaNPnkM93rtYncli4QFM_1DoXeZfcK/view?usp=sharing
